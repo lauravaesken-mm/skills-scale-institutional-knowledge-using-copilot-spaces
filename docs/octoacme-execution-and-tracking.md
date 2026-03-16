@@ -21,11 +21,11 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
-- Manual QA for feature acceptance when needed
+- Manual QA for feature acceptance when needed — led by the **QA Lead**, who coordinates testing sessions and confirms acceptance criteria are met before release
 
 ## Reporting & Metrics
 - Track velocity and burndown
-- Monitor success metrics identified in the Project One-pager
+- Monitor success metrics identified in the Project One-pager — the **Data Analyst** is responsible for tracking these metrics and sharing evidence-based insights with Product and Project Managers
 - Use dashboards for key signals (errors, latency, usage)
 
 ## Blocker Escalation
